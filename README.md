@@ -3,7 +3,8 @@
 
 ## Getting Started
 
-First, run the development server:
+
+Install Node.js (necessary)
 
 ```bash
 npm install    // install all the necessary dependency
