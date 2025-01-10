@@ -16,9 +16,10 @@ pnpm dev
 bun dev
 ```
 
+## project deploy link : 
+ [Vercel Platform](https://frontend-assignment-delta-pied.vercel.app/) 
 
-
-All the main code is written inside the src folder.
+All the main code is written inside the SRC folder.
 
 
 
