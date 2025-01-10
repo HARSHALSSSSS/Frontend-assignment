@@ -17,7 +17,7 @@ bun dev
 ```
 
 ## project deploy link : 
- [](https://frontend-assignment-delta-pied.vercel.app/) 
+ [https://frontend-assignment-delta-pied.vercel.app/](https://frontend-assignment-delta-pied.vercel.app/) 
 
 All the main code is written inside the SRC folder.
 
