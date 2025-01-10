@@ -5,6 +5,7 @@
 
 
 Install Node.js (necessary)
+clone the repository
 
 ```bash
 npm install    // install all the necessary dependency
